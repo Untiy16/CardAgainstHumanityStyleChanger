@@ -1,0 +1,16 @@
+.chat {
+    height: 288px !important;
+    position: relative;
+
+}
+
+.chatblok{
+    height: 250px !important;
+    position: absolute !important;
+    top: 30px!important;
+}
+
+#sendform{
+        position: absolute !important;
+    //top: 422px !important;
+}

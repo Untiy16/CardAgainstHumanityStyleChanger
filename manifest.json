@@ -1,0 +1,12 @@
+{
+    "name":"CardAgainstHumanity Style Changer",
+     "manifest_version": 2,
+    "version":"0.1",
+    "description":"Expand chat and more...",
+    "content_scripts":[
+        {
+            "matches":["http://cardsvs.ru/"],
+            "css":["style.css"]            
+        }
+    ]
+}
